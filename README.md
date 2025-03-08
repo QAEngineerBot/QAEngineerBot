@@ -1,31 +1,62 @@
+# Hi 👋, I'm Sachin Pujari, a passionate QA professional with 5+ years of experience in Manual & Automation Testing!
 
-# _About Me_
+![Profile Views](https://komarev.com/ghpvc/?username=QAEngineerBot&label=Profile%20Views&color=blue&style=flat)
 
-Hello! I'm Sachin, a quality automation engineer with a passion for ensuring software reliability and performance. I specialize in writing automated tests, debugging, and improving the overall quality of applications.
+**✨ Passionate Learner:** I am constantly enhancing my skill set to adopt cutting-edge tools and technologies, ensuring quality excellence in every project.
 
-# _Skills_
+---
 
-- **Automated Testing**: Selenium, testNG, Appium, RestAssures, SQL, Cucumber
-- **Manual Testing**: Functional, Regression, Exploratory
-- **Programming Languages**: Java, JavaScript
-- **CI/CD Tools**: Jenkins, GitHub Actions
-- **Version Control**: Git, GitHub
-- **Bug Tracking**: ClickUp
+### 💡 I'm currently working on
+- Enhancing automation frameworks to support UI & API testing.
+- Exploring CI/CD integrations with Github Actions.
+- Improving mobile automation with Appium.
 
+---
 
-# _Projects_
+### 🔗 Expertise Highlights:
+- **QA Expertise:** 5+ years of experience in software testing, covering both manual and automation testing.
+- **Automation Frameworks:** Proficient in Selenium WebDriver, Cucumber BDD, TestNG, and Page Object Model (POM) for robust test automation.
+- **Mobile Automation:** Experienced in Appium for testing Android & iOS applications.
+- **API Testing:** Skilled in RestAssured and POSTMAN for seamless backend and API validations, ensuring robust integration testing.
+- **CI/CD Integration:** Expertise in using Github Actions to integrate automated testing into pipelines for continuous delivery.
+- **Data-Driven Testing:** Leveraging JSONReader and ExcelReader utilities for dynamic test scenarios.
+- **Reporting & Logs:** Generating detailed, interactive reports using Extent Reports and implementing structured logs for debugging.
+- **Version Control:** Experience with Git, GitHub, and versioning best practices.
+- **Development Exposure:** Basic knowledge of JavaScript and React, utilizing Vite and Tailwind CSS for front-end development.
 
-- **Automated Testing Framework**: Built a robust automated testing framework using Selenium and Java, Appium, TestNG, Cucumber, reducing manual testing efforts by 50%.
+---
+---
 
-# _Education_
+### 🛠️ Technical Skills:
+![Java](https://skillicons.dev/icons?i=java)
+![Selenium](https://skillicons.dev/icons?i=selenium)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Eclipse](https://skillicons.dev/icons?i=eclipse)
+![Gherkin](https://skillicons.dev/icons?i=gherkin)
+![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)
+![HTML](https://skillicons.dev/icons?i=html)
+![Maven](https://skillicons.dev/icons?i=maven)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+![Postman](https://skillicons.dev/icons?i=postman)
+![Database](https://skillicons.dev/icons?i=mysql)
 
-- **Bachelor of Engineering in Mechanical Engineering**
-  - Shivaji University  (2013 - 2017)
+---
 
-# _Contact_
+### 👨‍💻 Languages and Tools:
+![Java](https://skillicons.dev/icons?i=java)
+![Selenium](https://skillicons.dev/icons?i=selenium)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Postman](https://skillicons.dev/icons?i=postman)
+![Jenkins](https://skillicons.dev/icons?i=jenkins)
+![Maven](https://skillicons.dev/icons?i=maven)
+![Gherkin](https://skillicons.dev/icons?i=gherkin)
+![SQL](https://skillicons.dev/icons?i=sql)
 
-- **Email**: sachinpujari5579@gmail.com
-- **LinkedIn**:https://www.linkedin.com/in/sachin-pujari-002a512aa/
+---
 
+## 📧 How to reach me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sachin-pujari-002a512aa) 
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/QAEngineerBot)
 
-Feel free to reach out to me for any collaboration or opportunities in the field of quality assurance and software testing!
+Feel free to connect with me to discuss Automation Frameworks, Testing Strategies, and Best Practices! 🚀
+
