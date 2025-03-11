@@ -25,7 +25,6 @@
 - **Development Exposure:** Basic knowledge of JavaScript and React, utilizing Vite and Tailwind CSS for front-end development.
 
 ---
----
 
 ### 🛠️ Technical Skills:
 ![Java](https://skillicons.dev/icons?i=java)
